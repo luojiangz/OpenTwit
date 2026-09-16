@@ -8,3 +8,4 @@ oh-package-lock.json5
 *.har
 local.properties
 .DS_Store
+.idea/
